@@ -89,7 +89,7 @@ COMING-SOON
 
 ## 🐍 Activité GitHub Snake
 
-![Snake animation](([https://github.com/Lnzzzz-00/Lnzzzz-00/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Lnzzzz-00/snk/output/github-contribution-grid-snake.svg))
+![Snake animation](https://raw.githubusercontent.com/Lnzzzz-00/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
