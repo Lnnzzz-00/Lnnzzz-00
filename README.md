@@ -67,15 +67,18 @@ COMING-SOON
 
 ## 📚 Ce que j’apprends
 
-| 🧠 Sujet                            | 🔄 Niveau actuel         | 🎯 Objectif visé                          |
-|------------------------------------|--------------------------|-------------------------------------------|
-| Java                               | En progression           | Maîtriser la POO, développer des apps solides |
-| Rust                               | En cours de découverte   | Comprendre la logique système et la mémoire |
-| JavaScript avancé                  | Intermédiaire            | Améliorer mes compétences pour le frontend et le jeu |
-| Tailwind CSS / Bootstrap           | Intermédiaire            | Gagner du temps avec des UIs modernes     |
-| PHP / SQL                          | Débutant+                | Développer des backends simples + bases de données |
-| Développement de jeux (JRPG)       | Exploration en cours     | Créer un prototype jouable avec inventaire et combat |
-| Git & travail en équipe            | Pratique régulière       | Être à l’aise avec les outils de versioning |
+Je suis actuellement étudiant en BTS SIO, passionné par le développement et motivé à devenir un développeur complet. Voici les compétences que je travaille activement :
+
+| 🧠 Compétence / Technologie         | 🎯 Objectif                                                  | 📈 Niveau actuel       |
+|------------------------------------|--------------------------------------------------------------|------------------------|
+| **JavaScript**                     | Approfondir le langage pour les projets web et jeux         | Intermédiaire          |
+| **Python**                         | Consolider les bases pour des scripts, bots et automatisation | Intermédiaire          |
+| **PHP / SQL**                      | Développer des backends simples avec base de données        | Débutant +             |
+| **Java**                           | Maîtriser la POO et préparer des projets plus structurés     | En progression         |
+| **Rust**                           | Découvrir les concepts système et la gestion mémoire        | En cours de découverte |
+| **React / Node.js**                | Créer des interfaces dynamiques et backends JavaScript      | En construction        |
+| **Tailwind CSS / Bootstrap**       | Gagner du temps avec des UIs modernes et responsives        | Intermédiaire          |
+| **Développement de jeu (JRPG)**    | Créer un prototype avec combat, inventaire et scénario      | En exploration         |
 
 ---
 
