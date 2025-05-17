@@ -36,7 +36,7 @@ COMING-SOON
 ## 📫 Me contacter
 
 - 📧 [belmiloud.mehdi1@gmail.com](belmiloud.mehdi1@gmail.com)  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tonprofil](https://fr.linkedin.com/in/mehdi-belmiloud-9656b9356))  
+- 💼 [LinkedIn](https://fr.linkedin.com/in/mehdi-belmiloud-9656b9356)  
 - 🌐 [Portfolio]()
 
 ---
