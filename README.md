@@ -21,8 +21,7 @@ COMING-SOON
 ---
 
 **🖥️ Langages :**  
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)  
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)  
@@ -84,12 +83,6 @@ COMING-SOON
 | PHP / SQL                          | Débutant+                | Développer des backends simples + bases de données |
 | Développement de jeux (JRPG)       | Exploration en cours     | Créer un prototype jouable avec inventaire et combat |
 | Git & travail en équipe            | Pratique régulière       | Être à l’aise avec les outils de versioning |
-
----
-
-## 🐍 Activité GitHub Snake
-
-![Snake animation](https://raw.githubusercontent.com/Lnzzzz-00/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
