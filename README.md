@@ -21,23 +21,15 @@ COMING-SOON
 ---
 
 **🖥️ Langages :**  
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)  
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)  ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 
 **🧩 Frameworks & Libs :**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 **🛠️ Outils :**  
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ---
 
 ## 📫 Me contacter
