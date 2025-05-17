@@ -2,7 +2,6 @@
 
 🧑‍💻 Développeur passionné | 🎓 Étudiant / Junior / Freelance  
 🌍 Basé à Paris | 📬 Contact : belmiloud.mehdi1@gmail.com
-🔗 [Mon LinkedIn](https://fr.linkedin.com/in/mehdi-belmiloud-9656b9356)
 
 ---
 
@@ -21,66 +20,76 @@ COMING-SOON
 
 ---
 
-## 🔧 Compétences techniques
-
-**Langages & Web :**  
+**🖥️ Langages :**  
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)  
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  
-
-**En apprentissage :**  
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 
-**Outils :**  
+**🧩 Frameworks & Libs :**  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+
+**🛠️ Outils :**  
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
 ---
 
 ## 📫 Me contacter
 
-- 📧 [ton@email.com](mailto:ton@email.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tonprofil)  
-- 🌐 [Portfolio](https://tonsiteperso.com)
+- 📧 [belmiloud.mehdi1@gmail.com](belmiloud.mehdi1@gmail.com)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tonprofil](https://fr.linkedin.com/in/mehdi-belmiloud-9656b9356))  
+- 🌐 [Portfolio]()
 
 ---
 
 ## 💡 Objectifs actuels
 
-- Apprendre [Next.js / Rust / Docker / Autre…]
-- Contribuer à un projet open-source
-- Créer une app utile qui résout un vrai problème
-- M'améliorer en architecture logicielle
+🎮 Me former sérieusement à la conception de jeux vidéo, en particulier les mécaniques d’un JRPG (système de combat au tour par tour, inventaire, quêtes, IA simple…)  
+🧠 Approfondir mes compétences en algorithmique, en architecture de code et en logique de gameplay  
+🧰 Explorer des outils comme Unity, Godot ou des moteurs plus simples en JS pour prototyper  
+🎨 Travailler aussi sur l’aspect visuel : animations, UI claires et ambiance immersive  
+🚀 Sortir un premier prototype jouable, même simple, pour apprendre de l’expérience concrète  
+📦 Documenter mon projet pour en faire un portfolio complet et bien présenté sur GitHub
+
+> Je veux apprendre en construisant, en testant, en échouant, puis en recommençant mieux.
 
 ---
 
 ## 🎯 Missions que j'aime
 
-- Transformer une idée floue en prototype fonctionnel
-- Travailler en équipe (et comprendre les autres devs 😅)
-- Créer des interfaces propres et réactives
-- Résoudre des bugs obscurs à 2h du mat 🐛
-
+- Créer des interfaces intuitives et immersives, surtout dans des projets visuels comme les jeux ou les applis interactives  
+- Concevoir des systèmes logiques : inventaires, dialogues, quêtes, bases de données  
+- Travailler sur des projets où je peux apprendre "en faisant", en testant des idées concrètes  
+- Relever des défis techniques comme l’optimisation ou la gestion de complexité  
+- Participer à des projets en équipe où chacun apporte ses idées et compétences  
+- Développer des applications ou des jeux qui font vivre une expérience utilisateur engageante
+  
 ---
 
 ## 📚 Ce que j’apprends
 
-| 🌱 Sujet           | 🚀 Niveau actuel     |
-|-------------------|----------------------|
-| TypeScript        | Intermédiaire        |
-| Tailwind CSS      | Débutant+            |
-| Docker            | En cours de découverte |
-| Test unitaire (Jest, Vitest) | En progrès 🔍 |
+| 🧠 Sujet                            | 🔄 Niveau actuel         | 🎯 Objectif visé                          |
+|------------------------------------|--------------------------|-------------------------------------------|
+| Java                               | En progression           | Maîtriser la POO, développer des apps solides |
+| Rust                               | En cours de découverte   | Comprendre la logique système et la mémoire |
+| JavaScript avancé                  | Intermédiaire            | Améliorer mes compétences pour le frontend et le jeu |
+| Tailwind CSS / Bootstrap           | Intermédiaire            | Gagner du temps avec des UIs modernes     |
+| PHP / SQL                          | Débutant+                | Développer des backends simples + bases de données |
+| Développement de jeux (JRPG)       | Exploration en cours     | Créer un prototype jouable avec inventaire et combat |
+| Git & travail en équipe            | Pratique régulière       | Être à l’aise avec les outils de versioning |
 
 ---
 
 ## 🐍 Activité GitHub Snake
 
-![Snake animation](https://github.com/tonprofil/tonprofil/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]((https://github.com/Lnzzzz-00/Lnzzzz-00/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
