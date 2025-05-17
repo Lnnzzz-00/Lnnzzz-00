@@ -17,30 +17,27 @@ Mon objectif : devenir un développeur complet et travailler sur des projets qui
 
 ## 🚀 Projets
 
-✨ [**NomProjet1**](https://github.com/tonprofil/nomprojet1)  
-Brève description – stack utilisée – but du projet
-
-🧠 [**NomProjet2**](https://github.com/tonprofil/nomprojet2)  
-Idée sympa ou perso que tu veux mettre en avant
-
-🛠️ [**NomProjet3**](https://github.com/tonprofil/nomprojet3)  
-Exemple : outil de dev, petit framework, template
+COMING-SOON
 
 ---
 
 ## 🔧 Compétences techniques
 
-**Langages :**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+**Langages & Web :**  
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)  
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  
 
-**Frameworks / Libs :**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+**En apprentissage :**  
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 
-**Outils & Autres :**  
+**Outils :**  
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 
 ---
 
@@ -49,14 +46,6 @@ Exemple : outil de dev, petit framework, template
 - 📧 [ton@email.com](mailto:ton@email.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tonprofil)  
 - 🌐 [Portfolio](https://tonsiteperso.com)
-
----
-
-## 📜 Parcours pro / études
-
-- 🎓 2022 – Licence Informatique, [Université]  
-- 🏢 2023 – Stage chez [Entreprise], développeur fullstack  
-- 🚀 2024 – Freelance / Open-source contributor / Alternance [selon ton cas]
 
 ---
 
