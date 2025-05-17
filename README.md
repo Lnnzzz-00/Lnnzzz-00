@@ -1,6 +1,6 @@
 # 👋 Lnnzzz
 
-🧑‍💻 Développeur passionné | 🎓 Étudiant / Junior / Freelance  
+🧑‍💻 Développeur passionné | 🎓 Étudiant 
 🌍 Basé à Paris | 📬 Contact : belmiloud.mehdi1@gmail.com
 
 ---
