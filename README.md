@@ -27,8 +27,8 @@ COMING-SOON
 
 
 **🧩 Frameworks & Libs :**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) ![SFML](https://img.shields.io/badge/-SFML-black?style=flat-square&logo=sfml)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![SFML](https://img.shields.io/badge/-SFML-black?style=flat-square&logo=sfml)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
 
 **🛠️ Outils :**  
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
