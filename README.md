@@ -15,12 +15,6 @@ Mon objectif : devenir un développeur complet et travailler sur des projets qui
 
 ---
 
-## 🚀 Projets
-
-COMING-SOON
-
----
-
 **🖥️ Langages :**  
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)  ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust) ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B) 
@@ -38,7 +32,7 @@ COMING-SOON
 
 - 📧 [belmiloud.mehdi1@gmail.com](belmiloud.mehdi1@gmail.com)  
 - 💼 [LinkedIn](https://fr.linkedin.com/in/mehdi-belmiloud-9656b9356)  
-- 🌐 [Portfolio]()
+- 🌐 [Portfolio](https://lnnzzz-00.github.io/Portfolio/index.html)
 
 ---
 
